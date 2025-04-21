@@ -1,0 +1,17 @@
+More Resources:
+
+https://realpython.com/python-variables/
+https://www.simplilearn.com/tutorials/python-tutorial/python-variables
+https://www.guru99.com/variables-in-python.html
+https://www.tutorialspoint.com/python/python_variables.htm
+
+
+https://www.geeksforgeeks.org/python-data-types/
+https://realpython.com/python-data-types/
+https://www.digitalocean.com/community/tutorials/python-data-types
+https://jakevdp.github.io/PythonDataScienceHandbook/02.01-understanding-data-types.html
+
+
+https://www.w3schools.com/python/python_operators.asp
+https://www.freecodecamp.org/news/basic-operators-in-python-with-examples/
+https://www.geeksforgeeks.org/python-operators/
